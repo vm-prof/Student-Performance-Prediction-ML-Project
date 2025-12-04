@@ -55,5 +55,5 @@ git clone <repo-url-here>
 cd Student-Performance-Prediction-ML-Project
 
 
-git clone https://github.com/your-user/your-repo.git
+
 
