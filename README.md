@@ -6,22 +6,24 @@ This project predicts a student's **average academic score** using Machine Learn
 ✔ Feature Engineering  
 ✔ Model Training & Evaluation  
 ✔ Flask API Deployment  
-✔ GitHub Portfolio Showcase
+✔ GitHub Portfolio Showcase  
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack Used
+
 - Python
 - NumPy, Pandas
 - Scikit-Learn
 - Matplotlib, Seaborn
-- Flask (API)
+- Flask (API Deployment)
 - Git + GitHub
-- Visual Studio Code
+- VS Code
 
 ---
 
 ## 📚 Dataset Features
+
 - gender  
 - race/ethnicity  
 - parental level of education  
@@ -35,20 +37,19 @@ This project predicts a student's **average academic score** using Machine Learn
 
 ## 📈 Model Performance (R² Score)
 
-| Model                   | R² Score |
-|------------------------|---------|
-| Linear Regression      | **1.00** |
-| Random Forest Regressor| **0.994** |
+| Model                     | R² Score |
+|--------------------------|---------|
+| Linear Regression        | **1.00** |
+| Random Forest Regressor  | **0.994** |
 
-👉 Random Forest selected as final model for deployment.
+👉 `Random Forest` selected as final model for deployment 🚀
 
 ---
 
 ## 🧪 How to Run the Project Locally
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd My-AI-ML-Journey-
-
+git clone <repo-url-here>
+cd Student-Performance-Prediction-ML-Project
