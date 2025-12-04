@@ -53,3 +53,7 @@ This project predicts a student's **average academic score** using Machine Learn
 ```bash
 git clone <repo-url-here>
 cd Student-Performance-Prediction-ML-Project
+
+
+git clone https://github.com/your-user/your-repo.git
+
