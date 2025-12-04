@@ -1,0 +1,10 @@
+{
+    "gender": 1,
+    "race/ethnicity": 2,
+    "parental level of education": 3,
+    "lunch": 1,
+    "test preparation course": 1,
+    "math score": 85,
+    "reading score": 88,
+    "writing score": 90
+}
